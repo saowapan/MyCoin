@@ -1,1 +1,1 @@
-ThaiGo
+MyCoin
